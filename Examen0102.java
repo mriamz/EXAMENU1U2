@@ -43,7 +43,7 @@ public class Examen0102 {
           ganancia3=instumento3-precio3;
           total1 =(ganancia1/precio)*100;
           total2 =(ganancia2/precio2)*100;
-          total3 =(ganancia1/precio3)*100;
+          total3 =(ganancia3/precio3)*100;
           
           System.out.println("******************************************************************");
          System.out.println("el porcentaje de ganancia de "+insto1+"  es  "+total1);
